@@ -4558,7 +4558,6 @@ NC_002607.1	tpg	gene	2009709	2011385	.	-	.	ID=gene-VNG_2678H;Name=VNG_2678H;gbke
 NC_002607.1	tpg	CDS	2009709	2011385	.	-	0	ID=cds-DAC79472.1;Parent=gene-VNG_2678H;Dbxref=NCBI_GP:DAC79472.1;Name=DAC79472.1;Note=revised for consistency with H.salinarum strain R1;gbkey=CDS;locus_tag=VNG_2678H;product=probable secreted glycoprotein;protein_id=DAC79472.1;transl_table=11
 NC_002607.1	tpg	gene	2011681	2014239	.	+	.	ID=gene-VNG_2679G;Name=csg;gbkey=Gene;gene=csg;gene_biotype=protein_coding;locus_tag=VNG_2679G
 NC_002607.1	tpg	CDS	2011681	2014239	.	+	0	ID=cds-DAC79473.1;Parent=gene-VNG_2679G;Dbxref=NCBI_GP:DAC79473.1;Name=DAC79473.1;Note=revised for consistency with H.salinarum strain R1;gbkey=CDS;gene=csg;locus_tag=VNG_2679G;product=S-layer glycoprotein;protein_id=DAC79473.1;transl_table=11
-
 NC_001869.1	tpg	pseudogene	2	283	.	+	.	ID=gene-VNG_7000a;Name=VNG_7000a;gbkey=Gene;gene_biotype=pseudogene;locus_tag=VNG_7000a;pseudo=true;pseudogene=unknown
 NC_001869.1	tpg	CDS	2	283	.	+	0	ID=cds-VNG_7000a;Parent=gene-VNG_7000a;Note=created according to H.salinarum strain R1%3B targeted by transposon%3B does not continue on otherside of transposon;gbkey=CDS;locus_tag=VNG_7000a;product=uncharacterized protein (nonfunctional);pseudo=true;pseudogene=unknown;transl_table=11
 NC_001869.1	tpg	gene	363	812	.	-	.	ID=gene-VNG_7001;Name=VNG_7001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=VNG_7001
@@ -5045,7 +5044,6 @@ NC_001869.1	tpg	pseudogene	188936	189955	.	+	.	ID=gene-VNG_7176;Name=VNG_7176;gb
 NC_001869.1	tpg	CDS	188936	189955	.	+	0	ID=cds-VNG_7176;Parent=gene-VNG_7176;Note=revised for consistency with H.salinarum strain R1%3B ORF H1942%3B truncated at both termini;gbkey=CDS;locus_tag=VNG_7176;product=helicase domain protein (nonfunctional);pseudo=true;pseudogene=unknown;transl_table=11
 NC_001869.1	tpg	pseudogene	190133	191299	.	-	.	ID=gene-VNG_7176a;Name=VNG_7176a;gbkey=Gene;gene_biotype=pseudogene;locus_tag=VNG_7176a;pseudo=true;pseudogene=unknown
 NC_001869.1	tpg	CDS	190133	191299	.	-	0	ID=cds-VNG_7176a;Parent=gene-VNG_7176a;Note=created according to H.salinarum strain R1%3B this ORF lacks a start codon due to a one-base frameshift;gbkey=CDS;locus_tag=VNG_7176a;product=ISH3-type transposase ISH3 (nonfunctional);pseudo=true;pseudogene=unknown;transl_table=11
-
 NC_002608.1	tpg	pseudogene	2	283	.	+	.	ID=gene-VNG_6000a;Name=VNG_6000a;gbkey=Gene;gene_biotype=pseudogene;locus_tag=VNG_6000a;pseudo=true;pseudogene=unknown
 NC_002608.1	tpg	CDS	2	283	.	+	0	ID=cds-VNG_6000a;Parent=gene-VNG_6000a;Note=created according to H.salinarum strain R1%3B targeted by transposon%3B does not continue on otherside of transposon;gbkey=CDS;locus_tag=VNG_6000a;product=uncharacterized protein (nonfunctional);pseudo=true;pseudogene=unknown;transl_table=11
 NC_002608.1	tpg	gene	363	812	.	-	.	ID=gene-VNG_6001H;Name=VNG_6001H;gbkey=Gene;gene_biotype=protein_coding;locus_tag=VNG_6001H
