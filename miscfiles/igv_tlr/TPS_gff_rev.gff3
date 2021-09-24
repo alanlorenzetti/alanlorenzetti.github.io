@@ -1,3 +1,4 @@
+##gff-version 3
 NC_002607.1	Ibrahim_et_al_2021	misc_feature	7204	7204	.	-	.	ID=TPS_7876_1;Name=TPS_7876_1;Note=pos_uncertainty:0,common_name:VNG_RS00030,old_name:VNG0006G,pvalue:0
 NC_002607.1	Ibrahim_et_al_2021	misc_feature	7572	7572	.	-	.	ID=TPS_7880_1;Name=TPS_7880_1;Note=pos_uncertainty:30,common_name:VNG_RS00035,old_name:VNG0008G,pvalue:0
 NC_002607.1	Ibrahim_et_al_2021	misc_feature	8642	8642	.	-	.	ID=TPS_7883_1;Name=TPS_7883_1;Note=pos_uncertainty:4,common_name:VNG_RS00035,old_name:VNG0008G,pvalue:0
