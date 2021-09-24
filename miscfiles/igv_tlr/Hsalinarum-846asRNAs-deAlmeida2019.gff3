@@ -1,3 +1,4 @@
+##gff-version 3
 NC_002607.1	deAlmeida2019	ncRNA	315	525	.	-	.	ID=VNG_as00010_1;Name=VNG_as00010_1;locus_tag=VNG_as00010_1;Note=VNG_RS00010|VNG0001H||hypothetical protein
 NC_002607.1	deAlmeida2019	ncRNA	7407	7582	.	+	.	ID=VNG_as00030_5;Name=VNG_as00030_5;locus_tag=VNG_as00030_5;Note=VNG_RS00030|VNG0006G||glutamine--fructose-6-phosphate aminotransferase
 NC_002607.1	deAlmeida2019	ncRNA	11587	11660	.	+	.	ID=VNG_as00050_10;Name=VNG_as00050_10;locus_tag=VNG_as00050_10;Note=VNG_RS00050|VNG0013C||transposase

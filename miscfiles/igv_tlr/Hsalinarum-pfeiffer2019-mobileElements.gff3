@@ -1,3 +1,4 @@
+##gff-version 3
 NC_002607.1	tpg	mobile_genetic_element	11454	12876	.	-	.	ID=id-NC_002607.1:11454..12876;gbkey=mobile_element;Name=ISH37
 NC_002607.1	tpg	mobile_genetic_element	13164	13448	.	+	.	ID=id-NC_002607.1:13164..13448;gbkey=mobile_element;Name=ISH29
 NC_002607.1	tpg	mobile_genetic_element	14330	14381	.	-	.	ID=id-NC_002607.1:14330..14381;gbkey=mobile_element;Name=HsIRS30
