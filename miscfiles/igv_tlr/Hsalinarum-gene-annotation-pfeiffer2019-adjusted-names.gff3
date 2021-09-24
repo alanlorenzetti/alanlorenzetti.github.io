@@ -1,3 +1,4 @@
+##gff-version 3
 NC_002607.1	tpg	gene	248	1453	.	+	.	ID=gene-VNG_0001H;Name=VNG_0001H;gbkey=Gene;gene_biotype=protein_coding;locus_tag=VNG_0001H
 NC_002607.1	tpg	CDS	248	1453	.	+	0	ID=cds-DAC77333.1;Parent=gene-VNG_0001H;Dbxref=NCBI_GP:DAC77333.1;Name=VNG_0001H;gbkey=CDS;locus_tag=VNG_0001H;product=uncharacterized protein;protein_id=DAC77333.1;transl_table=11
 NC_002607.1	tpg	gene	1450	2115	.	+	.	ID=gene-VNG_0002G;Name=VNG_0002G;gbkey=Gene;gene_biotype=protein_coding;locus_tag=VNG_0002G
